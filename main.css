@@ -1,0 +1,11 @@
+.watch_area {
+  display: flex;
+}
+
+.watch_area p {
+  padding: 2px;
+}
+
+.on_click {
+  pointer-events:none;
+}
